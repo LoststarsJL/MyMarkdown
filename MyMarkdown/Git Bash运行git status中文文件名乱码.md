@@ -1,5 +1,7 @@
 # 【已解决】Git Bash运行git status中文文件名乱码
 
+记录时间：2022年8月29日21:19:06
+
 当运行git status只显示数字串，显示不出中文文件名
 
 ![Git Bash乱码-20220829203935](https://raw.githubusercontent.com/LoststarsJL/MyImage/main/markdown-image/Git%20Bash%E4%B9%B1%E7%A0%81-20220829203935.png)
