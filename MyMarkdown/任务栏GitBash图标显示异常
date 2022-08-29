@@ -1,0 +1,9 @@
+# 【以解决】任务栏GitBash图标显示异常
+
+记录时间：2022年8月29日20:18:19
+
+重新安装Git Bash之后任务栏Git Bash图标显示异常
+
+![任务栏GitBash图标显示异常-20220829200859](https://raw.githubusercontent.com/LoststarsJL/MyImage/main/markdown-image/%E4%BB%BB%E5%8A%A1%E6%A0%8FGitBash%E5%9B%BE%E6%A0%87%E6%98%BE%E7%A4%BA%E5%BC%82%E5%B8%B8-20220829200859.png)
+
+右键点击图标——点Git Bash——显示路径不存在——确定删除——重新打开，问题解决
